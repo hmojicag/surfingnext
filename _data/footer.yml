@@ -1,0 +1,45 @@
+- links:
+  - name: Precios
+    link: /pricing/
+#   - name: Blog
+#     link: /blog/
+#   - name: About
+#     link: /about/
+#  - name: Contacto
+#    link: /contact/
+# - links:
+  - name: Login
+    link: /
+    new_window: true
+  - name: Registro
+    link: /
+    new_window: true
+#   - name: Docs
+#     link: /
+#     new_window: true
+#   - name: Status
+#     link: /
+#     new_window: true
+- links:
+  - name: SSAJ
+    link: https://ssaj.com.mx/
+    new_window: true
+    social_icon: Web
+  - name: contacto@ssaj.com.mx
+    link: mailto:contacto@ssaj.com.mx
+    social_icon: Email
+  - name: (81)11016224
+    link: tel:+528111016224
+    social_icon: Phone
+#  - name: Twitter
+#    link: https://twitter.com/cloudcannon/
+#    social_icon: Twitter
+#    new_window: true
+#  - name: YouTube
+#    link: https://youtube.com/cloudcannon/
+#    social_icon: YouTube
+#    new_window: true
+#  - name: RSS
+#    link: /feed.xml
+#    social_icon: RSS
+#    new_window: false
