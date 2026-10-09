@@ -9,10 +9,10 @@
 #    link: /contact/
 # - links:
   - name: Login
-    link: /
+    link: https://surfingnext-app.ssaj.com.mx
     new_window: true
   - name: Registro
-    link: /
+    link: https://surfingnext-app.ssaj.com.mx
     new_window: true
 #   - name: Docs
 #     link: /
