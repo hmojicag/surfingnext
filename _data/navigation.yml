@@ -15,10 +15,10 @@
 #   new_window: false
 #   highlight: false
 - name: Login
-  link: /
+  link: https://surfingnext-app.ssaj.com.mx
   new_window: true
   highlight: false
 - name: Registro
-  link: /
+  link: https://surfingnext-app.ssaj.com.mx
   new_window: true
   highlight: true
